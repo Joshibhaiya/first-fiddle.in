@@ -1,0 +1,362 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.weblogo{
+	width: 65px;
+
+}
+.navbar{
+	background-color:#00000075;
+}
+.navbar-nav li{
+	padding: 0 10px;
+}
+.navbar-nav li a{
+	color: #fff!important;
+	font-weight: 400;
+	font-size: 17px;
+}
+.Welcome{
+	text-align: center;
+	padding-top: 20px;
+	text-transform: uppercase;
+	font-family: 'prague';
+	letter-spacing: 3px;
+}
+.pragraph-welocme{
+	text-align: justify;
+	line-height: 35px;
+	letter-spacing: 1px;
+	word-spacing: 1px;
+	padding-right: 5px;
+}
+.Welcome-img{
+	width: 60%;
+
+}
+.Welcome-img1{
+	width: 80%;
+
+}
+#join-button{
+	background-color: #fcae1b;
+    margin-top: 125px;
+    font-size: 25px;
+    color: white;
+    font-family: sans-serif;
+}
+#area-btn{
+	padding: 15px;
+}
+.container-fluid-Why{
+	background-image: url(https://www.firstfiddle.in/assets/images/bannerabout.jpg);
+	width: 100%;
+    height: 500px;
+    margin-top: 20px;
+}
+.h-media{
+	color: white;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 150px;
+    font-family: serif;
+    font-weight: 900;
+}
+.m-media{
+	color: white;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 15px;
+    font-family: fangsong;
+    font-weight: 100;
+    line-height: 40px;
+	
+}
+.m-media1{
+	color: white;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 15px;
+    font-family: fangsong;
+    font-weight: 100;
+    line-height: 40px;
+	
+}
+#our{
+	margin: 20px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
+.container-fluid-Why1{
+	background-image:url(https://www.firstfiddle.in/assets/images/outletbanner.png);
+	width: 100%;
+    height: 500px;
+    margin-top: 20px;
+}
+.container-fluid-Why2{
+	background-image:url(https://www.firstfiddle.in/assets/images/gamebanner.jpg);
+	width: 100%;
+    height: 500px;
+    margin-top: 20px;
+}
+footer{
+	background: #020306f0;
+	padding: 50px;
+	color: #fff;
+}
+.f-img{
+	width: 50%;
+	margin-top: 30px;
+}
+footer ml-1{
+	font-family: 'prague';
+	padding: 20px;
+	text-transform: uppercase;
+	line-height: 50px;
+	letter-spacing: 3px;
+	color:#fff;
+}
+footer p{
+	font-size: 16px;
+	line-height: 28px;
+	letter-spacing: 1px;
+	color: white;
+}
+.centered {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+  }
+.ourh1{
+	color: #fff;
+	font-size: 90px;
+	font-family: sans-serif;
+
+}
+.the-man{
+	margin: 20px;
+    font-size: 40px;
+    font-family: monospace;
+    letter-spacing: 1px;
+    text-align: center;
+	text-transform: uppercase;
+}
+.story{
+	font-size: 21px;
+    line-height: 2;
+    font-family: monospace;
+    letter-spacing: 1px;
+    padding: 5px;
+    color: #0000006b;
+}
+.img-man{
+	padding: 5px;
+    box-shadow: 0px 0px 0px 1px black;
+}
+.join-h1{
+	margin: 40px;
+    text-align: center;
+    font-size: 50px;
+    font-family: monospace;
+    letter-spacing: 3px;
+    padding: 10px;
+}
+.img-join{
+	box-shadow: 0px 10px 16px 0px;
+}
+.join-btn{
+	border: none;
+    background: #fcae1a;
+    padding: 9px 30px;
+    font-size: 24px;
+    color: white;
+    border-radius: 15px;
+    margin: 50px;
+    font-family: monospace;
+	box-shadow: 0px 10px 16px 0px;
+}
+.join-p{
+	font-size: 20px;
+    line-height: 40px;
+    text-align: inherit;
+    letter-spacing: 2px;
+    padding: 5px;
+    font-family: monospace;
+    color: #00000085;
+}
+.join-h1{
+	margin: 40px;
+    text-align: center;
+    font-size: 50px;
+    font-family: monospace;
+    letter-spacing: 3px;
+    padding: 10px;
+}
+#CEO{
+	margin-top: 0px;
+    margin-left: 70px;
+    margin-right: 70px;
+    padding: 5px;
+}
+.name of ceo{
+	font-size: 50px;
+    font-family: monospace;
+    letter-spacing: 1px;
+    line-height: 70px;
+}
+.post{
+	font-size: 20px;
+    font-family: monospace;
+}
+.p-ceo{
+	font-size: 20px;
+    font-family: auto;
+    margin-top: -18px;
+    line-height: 25px;
+    letter-spacing: 3px;
+}
+.btn-ceo{
+	margin-top: 5px;
+    border: none;
+    border-radius: 7px;
+    font-size: 15px;
+    background: #fbac19;
+    padding: 10px;
+    box-shadow: 0px 2px 13px 0px;
+}
+.btn-content-ceo{
+	text-decoration: none;
+    color: white;
+    letter-spacing: 1px;
+}
+.social-icons{
+	margin-top: 15px;
+    font-size: 35px;
+}
+#A123{
+	text-decoration: none;
+    color: #fbac19;
+}
+#CARD{
+	padding: 5px;
+}
+/* contact section css */
+#CONTACT{
+	padding-right: 70px;
+    padding-left: 70px;
+	margin-top: 50px;
+}
+.h-contact{
+	font-size: 25px;
+    font-weight: 100;
+    font-family: system-ui;
+    letter-spacing: 6px;
+    color: #0000004f;
+}
+#name{
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+#email{
+	margin-top: 1rem;
+}
+#Phone{
+	margin-top: 1rem;
+}
+#MESSAGE{
+	margin-top: 1rem;
+}
+#btn-contact1{
+	background: #fbab19;
+    color: white;
+    font-size: 20px;
+    border-radius: 9px;
+    padding: 5px 30px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: none;
+}
+#SECTION{
+	text-align: center;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#SECTION-H2{
+	font-size: 40px;
+    font-family: ui-serif;
+    letter-spacing: 5px;
+    font-weight: 100;
+}
+.SECTION-P{
+	font-size: 25px;
+    font-family: ui-serif;
+    line-height: 40px;
+    letter-spacing: 2px;
+    color: #0000007d;
+}
+#form-section{
+	padding-left: 100px;
+	padding-right: 100px;
+}
+#first-section{
+	padding-left: 60px;
+    padding-right: 30px;
+}
+.h-section{
+	font-size: 25px;
+    font-weight: 100;
+    font-family: inherit;
+    letter-spacing: 3px;
+}
+.p-section{
+	font-size: 20px;
+    font-weight: 400;
+    font-family: serif;
+    letter-spacing: 1px;
+    line-height: 35px;
+}
+#card-section{
+	margin-bottom: 20px;
+}
+
+/* contact section css end */
+/* media query part */
+@media (max-width: 480px){
+	.m-media{
+		color: rgb(255, 255, 255);
+		text-align: center;
+		font-size: 10px;
+		margin-top: 15px;
+		font-family: fangsong;
+		font-weight: 100;
+		line-height: 40px;
+		
+	}
+}
+@media (max-width: 990px){
+	.m-media1{
+		color: rgb(255, 255, 255);
+		text-align: center;
+		font-size: 10px;
+		margin-top: 15px;
+		font-family: fangsong;
+		font-weight: 100;
+		line-height: 40px;
+		
+	}
+}
+@media (max-width: 730px){
+	.ourh1{
+		color: #fff;
+		font-size: 20px;
+		font-family: sans-serif;
+		margin-top: -100px;
+	
+	}
+}
+
